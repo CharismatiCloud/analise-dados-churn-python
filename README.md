@@ -34,3 +34,4 @@ Através dos gráficos gerados, foi possível identificar:
 <img width="924" height="450" alt="newplot" src="https://github.com/user-attachments/assets/ccb91b02-bef4-4d85-a749-18b9caf67079" />
 <img width="924" height="450" alt="newplot" src="https://github.com/user-attachments/assets/4d719918-ef45-4856-ba31-19ed86ef7ec8" />
 
+#Projeto desenvolvido durante a Jornada Python da Hashtag Treinamentos.
